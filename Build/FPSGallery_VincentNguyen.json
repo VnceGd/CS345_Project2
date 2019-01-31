@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CS345_Assignment2",
+"dataUrl": "FPSGallery_VincentNguyen.data.unityweb",
+"wasmCodeUrl": "FPSGallery_VincentNguyen.wasm.code.unityweb",
+"wasmFrameworkUrl": "FPSGallery_VincentNguyen.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
